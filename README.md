@@ -1,2 +1,21 @@
-# CS-230
-8-2 Journal: Portfolio Item
+SNHU Operating Platforms CS-230, Paul_Kudelsky
+
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
+In an concerted effort to reach more customers, the social media company 'Chat Away' wants to develop a mobile platform version of their website. This application needs to be distributable in both Android and iPhone app stores. Budget and timeline remain a high priority within the project.
+
+What did you do particularly well in developing this documentation?
+
+I think I did well in highlighting the relative strengths and weakness of any potential solution.
+
+What about the process of working through a design document did you find helpful when developing the code?
+
+Some amount of discovery about a project is always helpful. That is, lay out the potential directions and then try to describe what each adds or subtracts from the project. I think the difficult part is knowing when you have done enough exploration.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I missed some important ideas when evaluating the different platforms that are key to the success of the application, namely, security. Secure coding practices and other secuity ideas should always be paramount and should have not been missed. There is a lot of wiggle room for improvement.
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+
+If you are not addressing your user's needs they will abandon your application as soon as there is a viable alternative. Moreover, continually thrilling your users is also paramount to retaining even the most loyal user.
